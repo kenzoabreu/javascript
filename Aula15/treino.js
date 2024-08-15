@@ -1,4 +1,6 @@
 let vetor = [2, 5, 10, 8, 10, 3]
+vetor.sort()
+console.log(vetor)
 
 
 if(vetor.length % 2 ==  1 ) {
